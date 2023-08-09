@@ -50,7 +50,7 @@ global.ppulsa2 = '-'
 global.psaweria = 'https://bit.ly/3eggcxd'
 /*InfoBot*/
 global.nomorbot = '-'
-global.nomorown = '6287753812675'
+global.nomorown = '84876459724'
 global.namebot = 'Legacy Bot'
 global.nameown = 'KhrlMstfa'
 global.rul = 'https://telegra.ph/file/0a4fa7e5726f921ac52b7.jpg' //Jangan Diapus Ya Kids Nanti Eror Nangis Haha
